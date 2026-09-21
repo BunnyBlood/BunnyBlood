@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> Мой стек технологий</h3>
+  <h1>-ˋˏ✄┈ BunnyBlood / Frontend developer</h1>
 </div>
 
 <br>
