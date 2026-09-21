@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>-ˋˏ✄┈ BunnyBlood / Frontend developer</h1>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=BunnyBlood%20/%20Frontend%20developer&fontSize=36&fontAlignY=50" />
 </div>
 
 <br>
