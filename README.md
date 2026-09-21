@@ -1,6 +1,5 @@
 <h3 align="center">🛠️ Мой стек технологий:</h3>
-
-
+/n/n
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
