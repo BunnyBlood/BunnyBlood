@@ -1,4 +1,6 @@
-<h3 align="center">🛠️ Мой стек технологий:</h3>
+<div align="center">
+  <h3>🛠️ Мой стек технологий</h3>
+</div>
 <br><br>
 
 <p align="center">
